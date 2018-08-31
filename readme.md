@@ -32,4 +32,5 @@ Dontate
 
 If you found this project useful, please consider donating a little something as a thank you for the work :)
 
-[PayPal](https://paypal.me/sammurphey)
+[PayPal](https://paypal.me/sammurphey) · [Venmo](https://venmo.com/sammurphey) · [KoFi](https://kofi.com/sammurphey)
+
